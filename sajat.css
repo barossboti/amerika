@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #e9ecef;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #007bff;
+}
+
+#main-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.card-text {
+    color: #555;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #0056b3;
+}
+.kep{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+.amerikaikep{
+    margin-top: 20px;
+}
+.newyorkkep{
+    width: 1200px;
+    height: 1000px;
+    margin: 50px;
+    margin-left: 350px;
+    
+}
+#hírességMegjelenítő{
+    text-align: center;
+}
+#híresség{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+}
